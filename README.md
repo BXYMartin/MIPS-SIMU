@@ -1,4 +1,7 @@
 # MIPS-SIMU
 A Simple (Not Comprehended) MIPS Assembly Simulator for compiler optimizations.
 
-`Not All Instructions are implemented`
+## Instructions
+`add`, `addu`, `addiu`, `sub`, `subu`, `subiu`, `mul`, `div`, `syscall`, `sll`, `j`, `jr`, `jal`, `beq`, `bne` and more...
+
+## Note: `Not All Instructions are implemented`
